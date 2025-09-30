@@ -26,4 +26,11 @@ Tech Stack used -
 •SSMS(SQL Server Management Studio) for-
   - Managing On-Prem and Azure SQL server
   - Querying Data using SQL
- 
+
+
+ Methods Used for
+ Building a pipeline which will ingest csv files into Silver/CSV and JSON to Silver/Json
+ ○ Get Metadata
+ ○ Exception Handling in ADF
+ ○ Logic App 
+ ○ Azure Functions 
