@@ -1,4 +1,4 @@
-# Merchandise_Store-(End-to-End)Azure_DE_Project
+# End-to-End Azure_DE_Project
 Jujutsu is a merchandise store and planning to migrate it's on-prem SQL server data to Azure. Designing a pipeline which will migrate the data from On Prem Server to Azure SQL server. 
 There are 8 tables for which we need to migrate the data.
 
